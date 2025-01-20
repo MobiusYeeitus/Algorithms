@@ -1,2 +1,6 @@
 *.log
 *.drawio
+.vscode
+*.exe
+*.c
+MYSQL_Eddie.ipynb
